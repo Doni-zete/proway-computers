@@ -25,5 +25,5 @@ Projeto desenvolvido no [StartCapgemini](https://startcapgemini.com.br/?utm_sour
         
       
 
-   ### Link para acessar a copia [ProwayComputer](https://doni-zete.github.io/proway-computers/)
+   ### Link para acessar o site online [ProwayComputer](https://doni-zete.github.io/proway-computers/)
 
