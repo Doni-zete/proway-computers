@@ -1,27 +1,29 @@
-# Site
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+ # :computer:  ProwayComputers
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## :rocket: Sobre o desafio
 
-## Code scaffolding
+Projeto desenvolvido no [StartCapgemini](https://startcapgemini.com.br/?utm_source=Site+Capgemini&utm_medium=site&utm_campaign=site-capgemini-br&utm_id=site-capgemini-br-cta) que consiste na criação  do layout de um E-Commerce
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+:hammer_and_wrench: **Tecnologias Utilizadas**
+* Angular
+* CSS3
+* JavaScript
+* TypeScript
+* html
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+:arrow_down: **Como baixar o projeto**
 
-## Running unit tests
+* OBS: É necessário ter o git instalado em sua máquina
+* Executar o Seguinte comando no seu **Terminal**  ou no **CMD**:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+  ## `git clone https://github.com/Doni-zete/proway-computers.git`
+        
+        
+        
+      
 
-## Running end-to-end tests
+   ### Link para acessar a copia [ProwayComputer](https://doni-zete.github.io/proway-computers/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
