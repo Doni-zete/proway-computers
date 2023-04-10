@@ -22,8 +22,7 @@ Projeto desenvolvido no [StartCapgemini](https://startcapgemini.com.br/?utm_sour
   ## `git clone https://github.com/Doni-zete/proway-computers.git`
         
         
-        
-      
+   
 
-   ### Link para acessar o site online [The Hokages](https://doni-zete.github.io/angular-blog/)
+   ### Link para acessar o site online [Proway Computers](https://doni-zete.github.io/proway-computers/produtos)
 
